@@ -1,4 +1,4 @@
-# "Speak up!": The fine (and fun!) art of public speaking**
+# "Speak up!": The fine (and fun!) art of public speaking
 
 A workshop on public speaking and the fine art of presenting and sharing your knowledge with others.
 
