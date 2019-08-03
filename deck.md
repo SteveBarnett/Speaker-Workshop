@@ -16,7 +16,7 @@ Doing this to (hopefully) help you get started
 
 ---
 
-## **Agenda** :information_desk_person:
+## **Agenda** 📝
 
 ^ Put up A4s
 Trying something a bit different: modular workshop
@@ -88,7 +88,7 @@ You can buddy up with someone: we can help with that! 😬
 
 ## What was the most interesting thing? 🤔
 
-## Write it on a sticky note :pencil:
+## Write it on a sticky :pencil:
 
 ^ Discuss the results
 Keep it short!
@@ -149,8 +149,8 @@ Do tiny example of ourselves
 ### **Activity** :sparkles:
 
 ## Pair up
-## **Read** your bio
-## Get feedback<br>Use the handouts
+## **Read** your bio 👩‍🦱💬
+## Get feedback 👍<br>Use the handouts
 
 ^ Read, for practice
 Stand up. Yes, it’s silly. Yes, it helps.
@@ -177,7 +177,7 @@ Stand up. Yes, it’s silly. Yes, it helps.
 
 # **Break!**
 
-# :coffee: :tea:
+# :coffee: :tea: 🍎 🍌 🍰
 
 ---
 
@@ -211,7 +211,7 @@ Hand out handout
 
 ### **Activity** :sparkles:
 
-## Write an abstract for your (5m) lightning talk
+## Write an abstract for your (5m) lightning talk :pencil:
 
 ## **Audience, Talk Type,<br>Title, Description**
 
@@ -227,7 +227,7 @@ First draft! Rough!
 
 ## **Read** your abstract
 
-## Get feedback<br>Use the handouts
+## Get feedback 👍<br>Use the handouts
 
 ^ Gonna go around the table and read
 Practice speaking!
@@ -264,6 +264,7 @@ any questions?
 ### **Submitting to DevConf**
 
 ## Candice's<br>top 3 tips
+## 1️⃣ 2️⃣ 3️⃣
 
 ^ Have handouts with these on
 
@@ -273,7 +274,7 @@ any questions?
 
 ## Pair up
 ## **Review** your abstracts
-## Get feedback<br>Use the handout
+## Get feedback 👍<br>Use the handout
 
 ---
 
@@ -351,7 +352,7 @@ any questions?
 
 # **Break!**
 
-# :coffee: :tea:
+# :coffee: :tea: 🍎 🍌 🍰
 
 ---
 
@@ -365,7 +366,7 @@ any questions?
 
 ## Give your :zap: lightning talk to your group
 
-##  Get feedback<br>Use the handouts
+##  Get feedback 👍<br>Use the handouts
 
 ^ Groups of 4
 It's only a first draft
@@ -394,7 +395,7 @@ Stop at 5m, whatever happens.
 
 ### **Activity** :sparkles:
 
-## What's your plan for submitting?
+## What's your plan for submitting to DevConf?
 ## 5Ws and 1H
 
 ---
@@ -402,11 +403,12 @@ Stop at 5m, whatever happens.
 ### **Activity** :sparkles:
 
 ## Workshop feedback
-## **One thing you'll<br>tell a friend about<br>this workshop**
+## **One thing you'll<br>tell a friend about<br>this workshop 🗣**
 
 ^ stickies on the wall
 Anonymous, please be honest!
 
 ---
 
-# Thanks! :bow:
+# Thank you!
+#**🥳 :heart:**
