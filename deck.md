@@ -4,8 +4,6 @@ theme: Fira, 2
 
 ## the fine art of sharing<br>and presenting
 
-## **ctfeds.org/speakup**
-
 ^ put out nametags, w/ pronouns
 
 ---
@@ -114,57 +112,12 @@ any questions?
 
 ### **Getting Started**
 
-## Talk about your work<br>or side projects
-
-^ Topic that means something to you
-Writing helps you clarify an idea
-Good for testing an idea
-Gives you credibility
-Raise your profile
-Value to your readers
-
----
-
-### **Getting Started**
-
 ## Talk Types
 
 ^ to the wall
 Code, tool, process, workflow? Mistakes we made
 Want to talk, but don't know what yet
 Anyone seen one like this?
-
----
-
-### **Activity** :sparkles:
-
-## What could you<br>speak about?
-
-## Write a topic idea or two :pencil:
-
-^ We'll use one of them later
-
----
-
-### **Getting Started**
-
-## Picking the right event
-
-^ Lunch and learn at work
-Local meetups
-conferences
-
----
-
-### **Activity** :sparkles:
-
-## Where could you speak?<br>🤔
-
-## Write it on a sticky note :pencil:
-
-^ Go wide!
-Discuss the results
-*cough* CTFEDs *cough*
 
 ---
 
@@ -206,9 +159,9 @@ Stand up. Yes, it’s silly. Yes, it helps.
 
 ### **Activity** :sparkles:
 
-## "Noice!"
+## "Yay!"
 
-## 👍 👆 ✋
+## 👍 ✋
 
 ^ thumbs up, high 1, high 5
 
@@ -284,9 +237,9 @@ Stand up. Yes, it’s silly. Yes, it helps.
 
 ### **Activity** :sparkles:
 
-## "Noice!"
+## "Woo!"
 
-## 👍 👆 ✋
+## 👍 ✋
 
 ^ thumbs up, high 1, high 5
 
@@ -302,6 +255,37 @@ any questions?
 
 ---
 
+## **Section:**
+
+# Submitting<br>to DevConf
+
+---
+
+### **Submitting to DevConf**
+
+## Candice's<br>top 3 tips
+
+^ Have handouts with these on
+
+---
+
+### **Activity** :sparkles:
+
+## Pair up
+## **Review** your abstracts
+## Get feedback<br>Use the handout
+
+---
+
+### **Activity** :sparkles:
+
+## "Yeah!"
+
+## 👍 ✋
+
+^ thumbs up, high 1, high 5
+
+---
 
 ## **Section:**
 
@@ -396,7 +380,7 @@ Stop at 5m, whatever happens.
 
 ## "Noice!"
 
-## 👍 👆 ✋
+## 👍 ✋
 
 ^ thumbs up, high 1, high 5
 
@@ -410,9 +394,8 @@ Stop at 5m, whatever happens.
 
 ### **Activity** :sparkles:
 
-## What's your next step?
-
-^ 5Ws and 1H
+## What's your plan for submitting?
+## 5Ws and 1H
 
 ---
 
@@ -427,5 +410,3 @@ Anonymous, please be honest!
 ---
 
 # Thanks! :bow:
-
-# ctfeds.org/speakup

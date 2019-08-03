@@ -16,6 +16,10 @@ theme: Scherzkeks, 7
 
 ---
 
+# Submitting to DevConf
+
+---
+
 # Preparing a talk
 
 ---
