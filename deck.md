@@ -9,10 +9,10 @@ theme: Fira, 2
 ---
 
 # Ohai! :wave:
-
-^ Speaking and workshop history
-Worst speaking mistake(s)
-Doing this to (hopefully) help you get started
+^ Host intros
+Our Speaking and workshop history
+Some of our worst speaking mistake(s) (keeping it humble, even pros mess up)
+Doing this workshop to hopefully get you started
 
 ---
 
@@ -28,7 +28,7 @@ Trying something a bit different: modular workshop
 # Debunking myths
 
 ^ short presentation
-Things that you think stop you from speaking, but maybe don't have to
+quick run down of some things you might think prevent you from speaking, but maybe don't have to...
 
 ---
 
@@ -42,9 +42,11 @@ Things that you think stop you from speaking, but maybe don't have to
 
 ## 	You don’t need to<br>be perfect
 
-^ Just “good enough”.
-Start small, Practice a lot. You can learn, grow.
-Everyone gets nervous. It’s because you care.
+^ You just need to be good enough to make a start
+Start small, practice a lot
+Making mistakes is part of learning and being a dev
+You will learn and grow
+Everyone gets nervous!
 
 ---
 
@@ -58,10 +60,13 @@ Everyone gets nervous. It’s because you care.
 
 ## You don’t need to be<br>to succeed
 
-^ You don't need to be a super-nerd.
-Making mistakes is part of learning, and being a dev.
-Your point of view, way of seeing things, is unique. We need diverse viewpoints.
-Your background, education, experience.
+^ You don't need to be a super duper coding expert in order to qualify to talk
+
+Your point of view, your way of seeing things is unique. We need diverse viewpoints
+
+Your background, education, experiences are valuable
+
+Experts and long standing members in the field often lose touch with the basics, getting started, learning something for the first time...
 
 ---
 
@@ -69,7 +74,12 @@ Your background, education, experience.
 
 ## “But I’m not ready yet!”
 
-^ Even after all that...
+^ You'll never be 100% ready...
+
+Submit a proposal
+If it's accepted, work on the talk
+You don't have to know everything about the topic when you write the abstract
+You can buddy up with someone to help
 
 ---
 
@@ -92,6 +102,7 @@ You can buddy up with someone: we can help with that! 😬
 
 ^ Discuss the results
 Keep it short!
+Stick them up under the poster heading
 
 ---
 
@@ -114,10 +125,26 @@ any questions?
 
 ## Talk Types
 
-^ to the wall
-Code, tool, process, workflow? Mistakes we made
-Want to talk, but don't know what yet
-Anyone seen one like this?
+^ To the wall!
+So hopefully you've come somewhat prepared to this workshop with a topic in mind. 
+Even with a topic though, it's useful to figure out what type of talk best fits your topic.
+
+Refer to examples:
+Overview - Code, tools, process, workflow
+Case Study - how using xyz improved user engagement
+Deep Dive - getting in to the nitty gritty
+Let me show you - how to...
+What we learned - mistakes we made, lessons learned
+
+---
+
+## **Section:**
+
+### **Activity** :sparkles:
+
+## Share your topic. What type of talk would it be?
+
+^ To the wall!
 
 ---
 
@@ -140,9 +167,9 @@ any questions?
 
 ## Write a bio
 
-^ This is just the first draft
-Write it, then revise it
-Do tiny example of ourselves
+^ This is just the first draft, it doesn't need to be perfect
+There will be time to revise it a little later
+Think of the bio as a tiny one or two paragraph example of yourself
 
 ---
 
@@ -152,8 +179,9 @@ Do tiny example of ourselves
 ## **Read** your bio 👩‍🦱💬
 ## Get feedback 👍<br>Use the handouts
 
-^ Read, for practice
-Stand up. Yes, it’s silly. Yes, it helps.
+^ Read your bio, for practice
+The more you read it the more comfortable you'll become
+Stand up. It might feel silly, but it helps put our minds in the right frame for presenting something!
 
 ---
 
@@ -203,9 +231,9 @@ Specify the audience.
 
 ## The abstract
 
-^ Fancy way of saying the blurb
-Style, Structure
-Hand out handout
+^ The abstract is a fancy way of saying the blurb
+There is a particular style and structure to follow
+(refer to abstract handout)
 
 ---
 
@@ -215,9 +243,11 @@ Hand out handout
 
 ## **Audience, Talk Type,<br>Title, Description**
 
-^ Give out handouts
-Examples? This meetup group, our poster list
-First draft! Rough!
+^ Refer to abstract handout notes
+Need examples of audience? DevConf has a wide range of attendees, from folks just starting in the industry to tech veterans. There will be a wide range of skill sets and roles among those attending.
+
+Need examples of talk types, check out the posters
+Remember this is a quick first draft, it doesn't need to be perfect 
 
 ---
 
@@ -229,9 +259,9 @@ First draft! Rough!
 
 ## Get feedback 👍<br>Use the handouts
 
-^ Gonna go around the table and read
+^ Gonna go around the table and read your abstract
 Practice speaking!
-Stand up. Yes, it’s silly. Yes, it helps.
+Stand up when it's your turn. It may feel a little silly at first, but it helps keep the focus on you and get you into "speaker" mode.
 
 ---
 
@@ -267,6 +297,7 @@ any questions?
 ## 1️⃣ 2️⃣ 3️⃣
 
 ^ Have handouts with these on
+Candice to talk these through? 
 
 ---
 
@@ -298,7 +329,11 @@ any questions?
 
 ## Practice
 
-^ Maybe the best bit of advice
+^ The best and most important bit of advice
+Start by reading out loud to yourself in a mirror
+Practice reading to a pet or close friend
+Do a demo / practice run for co-workers
+
 3 big things
 
 ---
@@ -307,8 +342,8 @@ any questions?
 
 ## Your words 💬
 
-^ Knowing it gives you confidence,
-room to improvise.
+^ Knowing your talk gives you confidence and a sense of security
+This will in turn make you comfortable with improvising
 
 ---
 
@@ -316,7 +351,9 @@ room to improvise.
 
 ## Your timing ⏱
 
-^ We tend to run really short or really long
+^ We either tend to run really short or really long
+Getting a better sense of our timing also helps with pace. You don't want to be racing along, or umming and ahing with looong pauses
+Practicing a few times while timing yourself is super valuable
 
 ---
 
@@ -369,11 +406,13 @@ any questions?
 ##  Get feedback 👍<br>Use the handouts
 
 ^ Groups of 4
+Each person takes a turn to give their talk to the others
+One person should keep time 
+stop at 5mins, whatever happens!
 It's only a first draft
 Not gonna be perfect
 But will give you some useful feedback, some new ideas
 Stand up. Yes, it’s silly. Yes, it helps.
-Stop at 5m, whatever happens.
 
 ---
 
@@ -393,10 +432,19 @@ Stop at 5m, whatever happens.
 
 ---
 
+## **Section:**
+
+# Next steps...
+
+---
+
 ### **Activity** :sparkles:
 
 ## What's your plan for submitting to DevConf?
 ## 5Ws and 1H
+
+^ We have a suggestion...
+Check in with us by (date) If you'd like one last round of feedback before submitting your abstract
 
 ---
 
@@ -412,3 +460,5 @@ Anonymous, please be honest!
 
 # Thank you!
 #**🥳 :heart:**
+
+^ contact deets for submission check-in/ final round of feedback
