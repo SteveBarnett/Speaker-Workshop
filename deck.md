@@ -64,11 +64,11 @@ Everyone gets nervous!
 
 ^ You don't need to be a super duper coding expert in order to qualify to talk
 
-Your point of view, your way of seeing things is unique. We need diverse viewpoints
+^ Your point of view, your way of seeing things is unique. We need diverse viewpoints
 
-Your background, education, experiences are valuable
+^ Your background, education, experiences are valuable
 
-Experts and long standing members in the field often lose touch with the basics, getting started, learning something for the first time...
+^ Experts and long standing members in the field often lose touch with the basics, getting started, learning something for the first time...
 
 ---
 
@@ -125,7 +125,7 @@ any questions?
 So hopefully you've come somewhat prepared to this workshop with a topic in mind. 
 Even with a topic though, it's useful to figure out what type of talk best fits your topic.
 
-Refer to examples:
+^ Refer to examples:
 Overview - Code, tools, process, workflow
 Case Study - how using xyz improved user engagement
 Deep Dive - getting in to the nitty gritty
@@ -239,7 +239,7 @@ There is a particular style and structure to follow
 ^ Refer to abstract handout notes
 Need examples of audience? DevConf has a wide range of attendees, from folks just starting in the industry to tech veterans. There will be a wide range of skill sets and roles among those attending.
 
-Need examples of talk types, check out the posters
+^ Need examples of talk types, check out the posters
 Remember this is a quick first draft, it doesn't need to be perfect 
 
 ---
@@ -309,7 +309,7 @@ Why are you the best person to deliver this content
 ## Tip#1️⃣ Advice: 
 ## Who would be a typical DevConf attendee? 
 
-To help you answer this question, think about the typical DevConf attendee...
+^ To help you answer this question, think about the typical DevConf attendee...
 Who is paying for their ticket?
 Would they believe you're offering real value?
 
@@ -331,7 +331,7 @@ i.e. an answer to a question, a usefull new skill etc
 ## Tip#2️⃣ Advice:
 ## Ask a friend to read your submission
 
-Ask a friend to read your submission and tell you what they think your talk is about
+^ Ask a friend to read your submission and tell you what they think your talk is about
 Don't pre-empt them with an explanation or try explain if they start looking confused
 Let them read it through and tell you what they think
 
@@ -429,7 +429,7 @@ Start by reading out loud to yourself in a mirror
 Practice reading to a pet or close friend
 Do a demo / practice run for co-workers
 
-3 big things
+^ 3 big things
 
 ---
 
