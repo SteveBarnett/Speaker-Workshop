@@ -329,7 +329,7 @@ i.e. an answer to a question, a usefull new skill etc
 ### **Submitting to DevConf**
 
 ## Tip#2️⃣ Advice:
-## Ask a friend to read your submission
+## Ask a friend to<br>read your submission
 
 ^ Ask a friend to read your submission and tell you what they think your talk is about
 Don't pre-empt them with an explanation or try explain if they start looking confused
@@ -340,7 +340,7 @@ Let them read it through and tell you what they think
 ### **Submitting to DevConf**
 
 ## Tip#3️⃣
-## Be the change you want to see
+## Be the change<br>you want to see
 
 ^ Talks that describe problems aren't useful
 DevConf's slogan is "Solving today and tomorrow's software development challenges"
@@ -350,7 +350,7 @@ DevConf's slogan is "Solving today and tomorrow's software development challenge
 ### **Submitting to DevConf**
 
 ## Tip#3️⃣ Advice:
-## Explain the impact you've made
+## Explain the impact<br>you've made
 
 ^ If talking about topics such as diversity or inclusion challenges, be able to articulate what impact you've made
 If you want to talk about women in tech, be a woman in tech
@@ -371,7 +371,7 @@ Focus on solutions and positive impact, while trying to avoid victimhood
 ### **Submitting to DevConf**
 
 ## Tip#4 Advice:
-## Show how you've reworked and improved things!
+## Show how you've<br>reworked and<br>improved things!
 
 ^ If you’re repeating a talk, clearly articulate how you’ve
 collected feedback and improved the talk since.
@@ -382,7 +382,7 @@ collected feedback and improved the talk since.
 
 ## Pair up
 ## **Review** your abstracts
-## Get feedback 👍<br>Use the "Top Tips" handout
+## Get feedback 👍<br>Use the handout
 
 ^ Pair up and each take a turn to review the others abstract 
 Refer to the handout
@@ -392,7 +392,7 @@ Refer to the handout
 ### **Activity** :sparkles:
 
 ## **Re-write** your abstract
-## Based on feedback, how can your abstract be even better?
+## Based on the feedback,<br>how can your abstract<br>be even better?
 
 ^ With this advice in mind, how might you re-write your abstract to be even better?
 
