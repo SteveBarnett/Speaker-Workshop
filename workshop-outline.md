@@ -21,10 +21,10 @@ title: Workshop outline
 
 ## Getting Started
 
-- Getting Started. Talk Types
-- **5m** Activity: Share your tpoic. What type of talk would it be?
+- **5m** Getting Started. Talk Types
+- **5m** Activity: Share your topic. What type of talk would it be?
 
-**5m** (running total: 25m)
+**10m** (running total: 30m)
 
 ---
 
@@ -34,13 +34,13 @@ title: Workshop outline
 - **10m** Activity: Write a bio
 - **5m** Activity: Pair up. Read your bio. Write down feedback. 1 thing you liked. 1 thing they could do differently.
 
-**15m** (running total: 40m)
+**15m** (running total: 45m)
 
 ---
 
 ## Break
 
-**10m** (running total: 50m)
+**15m** (running total: 1h)
 
 ---
 
@@ -48,35 +48,42 @@ title: Workshop outline
 
 - Submitting a talk: The audience
 - Submitting a talk: The abstract
-- **10m** Activity: Write an abstract for your (5m) lightning talk. Use the template and the notes. Audience, Talk Type, Title, Description.
-- **15m** Activity: Pair up. Read your abstract. Write down feedback. 1 thing you liked. 1 thing they could do differently.
-- **5m** Activity: What was the best piece of feedback? Share at your table.
+- **10m** Activity: Write an abstract for your DevConf talk. Use the template and the notes. Audience, Talk Type, Title, Description.
+- **15m** Activity: Pair up and read your abstract. Write down feedback. 1 thing you liked. 1 thing they could do differently.
+- **10m** Activity: What was the best piece of feedback? Share at your table.
 
-**30** (running total: 1h20m)
+**35m** (running total: 1h35m)
 
 ---
 
 ## Submitting to DevConf
 
-- Submitting to DevConf: Candice's top 3 tips
-- **10m** Activity: Review your abstract. Get feedback. Use the handout.
+- **5m** Section: Submitting to DevConf - Candice's top tips
+- **10m** Activity: Pair up. Review your abstract. Get feedback. Use the handout.
+- **10m** Activity: Re-write your abstract based on feedback. Use the handout.
 
-**10** (running total: 1h30m)
+**25m** (running total: 2h)
+
+---
+
+## Break
+
+**15m** (running total: 2h15m)
 
 ---
 
 ## Preparing a talk
 
 - **5m** Preparing a talk: Practice.
-- **25m** Activity: Write a lightning talk. Use the template and the notes.
+- **30m** Activity: Write the lightning version of your DevConf talk. Use the template and the notes.
 
-**30m** (running total: 2h)
+**35m** (running total: 2h50m)
 
 ---
 
-## Break
+## Lunch Break
 
-**10m** (running total: 2h10m)
+**30m** (running total: 3h20m)
 
 ---
 
@@ -85,7 +92,7 @@ title: Workshop outline
 - **30m** Activity: Split into groups of 4. Give your lightning talk to someone. It's only a first draft
 - **10m** Feedback 1 thing you liked. 1 thing they could do differently. Give them stickies.
 
-**40m** (running total: 2h50m)
+**40m** (running total: 4h)
 
 ---
 
@@ -94,4 +101,4 @@ title: Workshop outline
 - **5m** Activity: What's your plan for submitting to DevConf?
 - **5m** Activity: Workshop feedback
 
-**10m** (running total: 3h)
+**10m** (running total: 4h10m)
