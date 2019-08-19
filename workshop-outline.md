@@ -50,7 +50,7 @@ title: Workshop outline
 - Submitting a talk: The abstract
 - **10m** Activity: Write an abstract for your DevConf talk. Use the template and the notes. Audience, Talk Type, Title, Description.
 - **15m** Activity: Pair up and read your abstract. Write down feedback. 1 thing you liked. 1 thing they could do differently.
-- **10m** Activity: What was the best piece of feedback? Share at your table.
+- **10m** Activity: What was the best piece of feedback? Share at your table and write the best piece of advice on a sticky.
 
 **35m** (running total: 1h35m)
 
@@ -91,14 +91,15 @@ title: Workshop outline
 
 - **30m** Activity: Split into groups of 4. Give your lightning talk to someone. It's only a first draft
 - **10m** Feedback 1 thing you liked. 1 thing they could do differently. Give them stickies.
+- **5m** Activity: what's the most useful thing you learned today? Write it on a sticky and put it up on the wall!
 
-**40m** (running total: 4h)
+**45m** (running total: 4h5m)
 
 ---
 
 ## Next steps
 
-- **5m** Activity: What's your plan for submitting to DevConf?
-- **5m** Activity: Workshop feedback
+- **5m** Activity: What's your plan for submitting to DevConf? Refer to handout.
+- **5m** Activity: Workshop feedback. Write it on a sticky and put it upn on the wall!
 
-**10m** (running total: 4h10m)
+**10m** (running total: 4h15m)

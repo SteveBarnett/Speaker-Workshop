@@ -260,6 +260,17 @@ Stand up when it's your turn. It may feel a little silly at first, but it helps 
 
 ### **Activity** :sparkles:
 
+## What was the best<br>piece of feedback?
+
+^ Giving constructive feedback is a valuable skill. 
+What was the best piece of feedback you received so far?
+Discuss at your table and write the best piece of feedback on a sticky
+Stick it up on the wall when you're all done
+
+---
+
+### **Activity** :sparkles:
+
 ## "Woo!"
 
 ## 👍 ✋
@@ -509,6 +520,16 @@ It's only a first draft
 Not gonna be perfect
 But will give you some useful feedback, some new ideas
 Stand up. Yes, it’s silly. Yes, it helps.
+
+---
+
+### **Activity** :sparkles:
+
+## What's the most useful<br>you learned today?
+
+^ To the wall!
+You've now run through the entire process of thinking about, preparing, submitting and giving a talk! What's the one most useful thing thing you've learned. 
+Write it on a sticky.
 
 ---
 
