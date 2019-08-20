@@ -525,10 +525,10 @@ Stand up. Yes, it’s silly. Yes, it helps.
 
 ### **Activity** :sparkles:
 
-## What's the most useful<br>you learned today?
+## What's the most useful<br>thing you learned today?
 
 ^ To the wall!
-You've now run through the entire process of thinking about, preparing, submitting and giving a talk! What's the one most useful thing thing you've learned. 
+You've now run through the entire process of thinking about, preparing, submitting and giving a talk! What's the one most useful thing you've learned. 
 Write it on a sticky.
 
 ---
