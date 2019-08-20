@@ -365,27 +365,8 @@ DevConf's slogan is "Solving today and tomorrow's software development challenge
 
 ^ If talking about topics such as diversity or inclusion challenges, be able to articulate what impact you've made
 If you want to talk about women in tech, be a woman in tech
+What makes your take on the topic different/ unique?
 Focus on solutions and positive impact, while trying to avoid victimhood
-
-
----
-
-### **Submitting to DevConf**
-
-## Tip#4
-## Do something different
-
-^ If you're simply submitting a talk you've already done for a different conference, it doesn't earn you any street cred 
-
----
-
-### **Submitting to DevConf**
-
-## Tip#4 Advice:
-## Show how you've<br>reworked and<br>improved things!
-
-^ If you’re repeating a talk, clearly articulate how you’ve
-collected feedback and improved the talk since.
 
 ---
 
